@@ -1,0 +1,20 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Local database
+data/*.db
+data/*.sqlite
+
+# Generated files
+outputs/*
+reports/*
+screenshots/*
